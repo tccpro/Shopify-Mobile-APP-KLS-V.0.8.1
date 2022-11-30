@@ -1,5 +1,6 @@
 package com.instantkarma;
 
+
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
 
